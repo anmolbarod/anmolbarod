@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Barod</h1>
-<h3 align="center">A passionate frontend developer from India, I am a beginner to coding.. Currently learning C++ and Full Stack Development. I am having intermediate experience in C language.</h3>
+<h4 align="center">A passionate frontend developer from India, I am a beginner to coding.. Currently learning C++ and Full Stack Development. I am having intermediate experience in C language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolbarod&label=Profile%20views&color=0e75b6&style=flat" alt="anmolbarod" /> </p>
 
